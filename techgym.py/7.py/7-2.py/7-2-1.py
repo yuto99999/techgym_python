@@ -1,6 +1,6 @@
 import random
 
-hands = ['グー', 'チョキ', 'パー']
+hands = ['グー', 'チョキ']
 results = {'win':'勝ち', 'lose':'負け', 'draw':'あいこ'}
 lifes = {'my':3, 'you':3}
 
